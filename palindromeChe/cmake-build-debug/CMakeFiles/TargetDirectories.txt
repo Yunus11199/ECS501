@@ -1,0 +1,3 @@
+C:/Users/Yunus/CLionProjects/palindromeChe/cmake-build-debug/CMakeFiles/palindromeChe.dir
+C:/Users/Yunus/CLionProjects/palindromeChe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yunus/CLionProjects/palindromeChe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

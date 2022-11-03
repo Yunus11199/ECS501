@@ -1,0 +1,3 @@
+C:/Users/Yunus/CLionProjects/week2/count_capLetters/cmake-build-debug/CMakeFiles/count_capLetters.dir
+C:/Users/Yunus/CLionProjects/week2/count_capLetters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yunus/CLionProjects/week2/count_capLetters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

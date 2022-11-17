@@ -1,0 +1,3 @@
+C:/Users/Yunus/CLionProjects/week7/simpledb/cmake-build-debug/CMakeFiles/simpledb.dir
+C:/Users/Yunus/CLionProjects/week7/simpledb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yunus/CLionProjects/week7/simpledb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
